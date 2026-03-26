@@ -1,5 +1,5 @@
-# Power BI portfolio | powerbi-bikes-report
-Entry for my Power BI portfolio: a bikes sales report that uses virtual data by Udemy, showcasing my visualization, data analysis and organization skills.
+# Power BI Portfolio | powerbi-bikes-report
+Entry for my Power BI Portfolio: a bikes sales report that uses virtual data by Udemy, showcasing my visualization, data analysis and organization skills.
 
 ### Report link
 https://app.powerbi.com/links/XGbkAfq7nB?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare
